@@ -20,12 +20,12 @@ This project is a **tower defense game developed using Unreal Engine 4**, featur
 ## 🛠 **Development & Tech Stack**
 - **Engine:** Unreal Engine 4  
 - **Development Method:** Blueprint Visual Scripting  
-- **Project Type:** Team Collaboration (3-person team)  
+- **Project Type:** personal project  
 
 ---
 
 ## 🎯 **My Contributions**
-As the **Gameplay Developer**, I was responsible for designing and implementing **core game mechanics**, including:
+As the **Game Developer**, I was responsible for designing and implementing **whole game mechanics**, including:
 
 ✅ **Turret AI & Auto-Targeting System** – Developed turrets that dynamically track and engage enemies within range.  
 ✅ **Projectile & Homing Behavior** – Implemented physics-driven projectiles that adjust trajectory to hit moving targets.  
@@ -62,9 +62,3 @@ As the **Gameplay Developer**, I was responsible for designing and implementing 
 ## 📜 **References & Inspirations**
 This project was inspired by popular tower defense games such as **Kingdom Rush** and **Carrot Fantasy (保卫萝卜)**. The level designs were created to mimic **diverse real-world environments**, enhancing player immersion.
 
----
-
-## 🚀 **Why This Project Stands Out**
-- **Demonstrates expertise in gameplay mechanics, AI systems, and game balancing.**
-- **Showcases proficiency in Unreal Engine 4 Blueprints for game development.**
-- **Highlights ability to work in a team, solve technical problems, and optimize gameplay systems.**
