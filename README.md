@@ -8,12 +8,12 @@ This is a **tower defense game developed with Unreal Engine 4**, featuring **str
 ---
 
 ## 🚀 Key Features
-- **🧠 Intelligent Enemy AI & Pathfinding** – Enemies follow preset paths and dynamically react.  
-- **🔫 Advanced Turret System** – Automated targeting, projectile tracking, and homing mechanics.  
-- **📈 Progressive Difficulty Scaling** – Enemies become stronger and faster with each wave.  
-- **💰 Resource & Upgrade Management** – Players earn in-game currency to **upgrade and optimize defenses**.  
-- **🌍 Multi-Environment Levels** – Includes **grassland, snowfield, and desert** maps with strategic placements.  
-- **🎮 Complete Gameplay Flow** – Features a **start menu, win/loss states, and an intuitive UI**.  
+- ** Intelligent Enemy AI & Pathfinding** – Enemies follow preset paths and dynamically react.  
+- ** Advanced Turret System** – Automated targeting, projectile tracking, and homing mechanics.  
+- ** Progressive Difficulty Scaling** – Enemies become stronger and faster with each wave.  
+- ** Resource & Upgrade Management** – Players earn in-game currency to **upgrade and optimize defenses**.  
+- ** Multi-Environment Levels** – Includes **grassland, snowfield, and desert** maps with strategic placements.  
+- ** Complete Gameplay Flow** – Features a **start menu, win/loss states, and an intuitive UI**.  
 
 ---
 
@@ -27,11 +27,11 @@ This is a **tower defense game developed with Unreal Engine 4**, featuring **str
 ## 🎯 My Contributions
 As the **solo developer**, I was responsible for:  
 
-✅ **Turret AI & Auto-Targeting** – Designed turrets that dynamically track and attack enemies.  
-✅ **Projectile Physics & Homing System** – Implemented projectiles that adjust trajectory to hit moving targets.  
-✅ **Enemy AI & Pathfinding Optimization** – Ensured smooth movement and logical enemy behavior.  
-✅ **Resource & Upgrade System** – Developed an **interactive UI** for managing turrets, money, and upgrades.  
-✅ **Game Progression & Balancing** – Adjusted difficulty scaling to maintain an engaging challenge.  
+ **Turret AI & Auto-Targeting** – Designed turrets that dynamically track and attack enemies.  
+ **Projectile Physics & Homing System** – Implemented projectiles that adjust trajectory to hit moving targets.  
+ **Enemy AI & Pathfinding Optimization** – Ensured smooth movement and logical enemy behavior.  
+ **Resource & Upgrade System** – Developed an **interactive UI** for managing turrets, money, and upgrades.  
+ **Game Progression & Balancing** – Adjusted difficulty scaling to maintain an engaging challenge.  
 
 ---
 
