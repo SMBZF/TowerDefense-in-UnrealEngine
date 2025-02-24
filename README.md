@@ -8,12 +8,12 @@ This is a **tower defense game developed with Unreal Engine 4**, featuring **str
 ---
 
 ## 🚀 Key Features
-- ** Intelligent Enemy AI & Pathfinding** – Enemies follow preset paths and dynamically react.  
-- ** Advanced Turret System** – Automated targeting, projectile tracking, and homing mechanics.  
-- ** Progressive Difficulty Scaling** – Enemies become stronger and faster with each wave.  
-- ** Resource & Upgrade Management** – Players earn in-game currency to **upgrade and optimize defenses**.  
-- ** Multi-Environment Levels** – Includes **grassland, snowfield, and desert** maps with strategic placements.  
-- ** Complete Gameplay Flow** – Features a **start menu, win/loss states, and an intuitive UI**.  
+- **Intelligent Enemy AI & Pathfinding** – Enemies follow preset paths and dynamically react.  
+- **Advanced Turret System** – Automated targeting, projectile tracking, and homing mechanics.  
+- **Progressive Difficulty Scaling** – Enemies become stronger and faster with each wave.  
+- **Resource & Upgrade Management** – Players earn in-game currency to **upgrade and optimize defenses**.  
+- **Multi-Environment Levels** – Includes **grassland, snowfield, and desert** maps with strategic placements.  
+- **Complete Gameplay Flow** – Features a **start menu, win/loss states, and an intuitive UI**.  
 
 ---
 
@@ -36,7 +36,7 @@ As the **solo developer**, I was responsible for:
 ---
 
 ## 🔧 Challenges & Solutions
-### 🔸 Bullet Trajectory Issue
+### Bullet Trajectory Issue
 **Problem:** Projectiles flew to (0,0,0) after an enemy was destroyed.  
 **Solution:** Implemented a **projectile destruction check** upon enemy death, preventing unwanted movement.  
 
