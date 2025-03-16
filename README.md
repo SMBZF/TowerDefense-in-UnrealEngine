@@ -2,12 +2,12 @@
 
 This is a **tower defense game developed with Unreal Engine 4**, featuring **strategic turret placement, enemy AI, resource management, and dynamic difficulty scaling**. Players must build defenses, upgrade turrets, and survive increasingly challenging enemy waves.  
 
-📺 **Demo Video:** [Watch on Bilibili](https://www.bilibili.com/video/BV1rA411f79x/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0ac945c0931cbfefb8021e7fa551bd82)  
-📂 **Project Files:** [Download from OneDrive](https://1drv.ms/f/c/2cad8aad5baf1afa/ErJFCJADRzFEhPcZ9GLchrkBV71jMGPt_7F-Dm_MkTUJ_Q?e=yeNDrV)  
+**Demo Video:** [Watch on Bilibili](https://www.bilibili.com/video/BV1rA411f79x/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0ac945c0931cbfefb8021e7fa551bd82)  
+**Project Files:** [Download from OneDrive](https://1drv.ms/f/c/2cad8aad5baf1afa/ErJFCJADRzFEhPcZ9GLchrkBV71jMGPt_7F-Dm_MkTUJ_Q?e=yeNDrV)  
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **Intelligent Enemy AI & Pathfinding** – Enemies follow preset paths and dynamically react.  
 - **Advanced Turret System** – Automated targeting, projectile tracking, and homing mechanics.  
 - **Progressive Difficulty Scaling** – Enemies become stronger and faster with each wave.  
@@ -17,14 +17,14 @@ This is a **tower defense game developed with Unreal Engine 4**, featuring **str
 
 ---
 
-## 🛠 Tech Stack & Development
+## Tech Stack & Development
 - **Engine:** Unreal Engine 4  
 - **Development Method:** Blueprint Visual Scripting  
 - **Project Type:** Personal  
 
 ---
 
-## 🎯 My Contributions
+## My Contributions
 As the **solo developer**, I was responsible for:  
 
  **Turret AI & Auto-Targeting** – Designed turrets that dynamically track and attack enemies.  
@@ -35,14 +35,14 @@ As the **solo developer**, I was responsible for:
 
 ---
 
-## 🔧 Challenges & Solutions
+## Challenges & Solutions
 ### Bullet Trajectory Issue
 **Problem:** Projectiles flew to (0,0,0) after an enemy was destroyed.  
 **Solution:** Implemented a **projectile destruction check** upon enemy death, preventing unwanted movement.  
 
 ---
 
-## 🎮 How to Play
+## How to Play
 1. **Place turrets strategically** to block enemy waves.  
 2. **Upgrade turrets** to improve attack power and efficiency.  
 3. **Manage resources wisely** to strengthen your defense.  
