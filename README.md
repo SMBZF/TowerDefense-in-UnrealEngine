@@ -50,5 +50,5 @@ As the **solo developer**, I was responsible for:
 
 ---
 
-## 📜 References & Inspirations
+## References & Inspirations
 Inspired by classic tower defense games like **Kingdom Rush** and **Carrot Fantasy (保卫萝卜)**, with level designs reflecting diverse real-world landscapes.  
